@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # gpa-calculator
-Simple GPA calculator using Python”
+Simple GPA calculator using Python
 =======
 # GPA Calculator (4.0 System)
 
@@ -12,5 +11,3 @@ A simple Python script to calculate GPA using course units and grades (A–F) on
 3. For each course, enter the unit and grade.
 4. It will calculate and print your GPA.
 
-## Sample Input
->>>>>>> f4cdd76 (Add README)
